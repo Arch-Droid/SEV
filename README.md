@@ -1,4 +1,4 @@
-# schoolstrijd
+# Schoolstrijd
 
 The beginning of a mulitpurpose administrative application
 
