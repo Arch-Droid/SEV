@@ -2,7 +2,7 @@
 
 The beginning of a mulitpurpose administrative application
 
-# The ProgramSquad -- Ignatius
+## The ProgramSquad -- Ignatius
 
 Klas 6: Sem - Frans - Quibus - Murt - Νικοσ
 #
