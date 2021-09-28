@@ -1,4 +1,4 @@
-# schoolstrijd
+# Schoolstrijd
 
 Het begin van een grote App
 
